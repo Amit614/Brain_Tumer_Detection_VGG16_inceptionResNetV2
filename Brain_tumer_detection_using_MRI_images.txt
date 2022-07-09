@@ -1,0 +1,9 @@
+https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+
+https://www.kaggle.com/harshalgadhe/tumor-detection
+
+https://www.kaggle.com/michaelcripman/90-accuracy-vgg16-brain-tumor-diagnosis
+
+https://www.kaggle.com/hackspyder/brain-mri-with-convolutional-autoencoder
+
+pd.merge(left = left tabel, right = right table, how = 'inner', on = 'common column' )
